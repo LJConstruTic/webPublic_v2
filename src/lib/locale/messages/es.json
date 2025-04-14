@@ -1,0 +1,40 @@
+{
+    "HomePage": {
+        "title": "Hello world!",
+        "banner": {
+            "buttonContact": "contáctanos ahora"
+        }
+    },
+    "About": {
+        "buttonMore": "saber más",
+        "title": "Sobre nosotros",
+        "description": "Reunimos dos áreas importantes y sus derivados en el mercado actual: Construcción Civil y Urbana y Soluciones Tecnológicas en Comunicaciones y Tecnologías de la Información TIC/TI (IT), ofreciendo a nuestros clientes servicios de calidad con modernas tecnologías.",
+        "history": {
+            "title": "Existimos por un",
+            "subtitle": "Gran razón"
+        },
+        "our": "Nosotros"
+    },
+    "Strategy": {
+        "title": "Estrategia",
+        "description": "Realizamos amplios estudios de mercado para identificar las necesidades de los clientes en el sector de la Construcción, soluciones tecnológicas (TIC), reparaciones de dispositivos electrónicos, así como Venta de materiales relacionados con las áreas que trabajamos. <br/> <br/> Somos conscientes de que el mercado es competitivo y requiere de una rápida adaptación en el proceso evolutivo tecnológico para satisfacer la demanda de los clientes, por eso nuestros expertos han trabajado duro para implementar las mejores soluciones en cada proyecto."
+    },
+    "Contact": {
+        "buttonSend": "Enviar"
+    },
+    "Services": {
+        "title": "Nuestros servicios",
+        "contactButton": "Solicitar ahora",
+        "buttonMore": "saber más"
+    },
+    "Goals": {
+        "title": "Objetivos"
+    },
+    "Products": {
+        "title": "Nuestros productos",
+        "contactButton": "Solicitar ahora"
+    },
+    "Footer": {
+        "copyright": "Copyright &copy; {year} Todos los derechos reservados"
+    }
+}
